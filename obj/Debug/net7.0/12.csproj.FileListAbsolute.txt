@@ -1,0 +1,14 @@
+C:\Primeiro_Período__\FP\classes\12\bin\Debug\net7.0\12.exe
+C:\Primeiro_Período__\FP\classes\12\bin\Debug\net7.0\12.deps.json
+C:\Primeiro_Período__\FP\classes\12\bin\Debug\net7.0\12.runtimeconfig.json
+C:\Primeiro_Período__\FP\classes\12\bin\Debug\net7.0\12.dll
+C:\Primeiro_Período__\FP\classes\12\bin\Debug\net7.0\12.pdb
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.AssemblyInfoInputs.cache
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.AssemblyInfo.cs
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.csproj.CoreCompileInputs.cache
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.dll
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\refint\12.dll
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.pdb
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\12.genruntimeconfig.cache
+C:\Primeiro_Período__\FP\classes\12\obj\Debug\net7.0\ref\12.dll
